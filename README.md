@@ -1,2 +1,1 @@
-"# MinecraftServer" 
-"# MinecraftServer" 
+# MinecraftServer
